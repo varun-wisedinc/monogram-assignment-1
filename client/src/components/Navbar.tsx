@@ -18,7 +18,7 @@ function Navbar() {
           <circle cx="16.5" cy="15.5" r="2.5"></circle>
           <path d="M6 15h4.999v2H6z"></path>
         </svg>
-        <h3 className="navbar-heading">Monogram</h3>
+        <h3 className="navbar-heading">MONOGRAM</h3>
       </a>
       <div>
         <a href="/how-it-works" className="navbar-link">
