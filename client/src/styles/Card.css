@@ -2,6 +2,7 @@
 .card{
     padding: 20px;
     background-color: #f5f5f5;
+    width: max-content;
 }
 .card h5{
     margin: 0;

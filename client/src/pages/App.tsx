@@ -1,9 +1,10 @@
 import Card from "../components/Card";
+import Navbar from "../components/Navbar";
 import card1 from "../images/card1.webp";
 function App() {
   return (
     <div>
-      <h1>App</h1>
+      <Navbar />
       <Card
         title="MINI CONSOLE"
         text="Ideal for everyday shortcuts. Adaptable to any workflow."
